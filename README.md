@@ -7,6 +7,8 @@ This project analyzes the relationship between Bitcoin market sentiment and trad
 The objective is to explore how different market sentiment conditions (Fear, Greed, Extreme Fear, Extreme Greed, and Neutral) influence trading activity, profitability, trade direction, and overall trader behavior.
 
 ---
+If the GitHub notebook preview does not load, please use NBViewer:
+https://nbviewer.org/github/moizbagwan/PrimetradeAI_Assignment_for_Internship/blob/main/PrimetradeAI_Assignment.ipynb
 
 ## Datasets Used
 
